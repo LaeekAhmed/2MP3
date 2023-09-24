@@ -16,5 +16,3 @@ int main() {
 
     return 0;
 }
-
-// file > staging area > local repo > remote repo
